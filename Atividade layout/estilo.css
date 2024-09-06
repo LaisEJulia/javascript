@@ -1,0 +1,127 @@
+.caixinha{
+    padding: 100px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+    
+}
+.caixinha2{
+    padding: 100px;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(247, 167, 69);
+    
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 3%;
+    flex-direction: column;
+}
+body {
+    background-color: rgb(97, 97, 202);
+}
+.caixão{
+    padding: 230px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+.chocolate{
+    margin-left: 600px;
+    margin-top: -34% ;
+    width: 70px;
+    height: 446px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+div{
+    max-width: 40%;
+}
+.div2{
+max-width: 100%;
+}
+.COXÃO{
+    padding: 78px;
+    width: 100px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+.caixinha3{
+    padding: 78px;
+    width: 239px;
+    margin-left: 300px;
+    text-align: center;
+    margin-top: -178px;
+    background-color: rgb(247, 167, 69);
+    
+}
+.flex-container2{
+    display: flex;
+    margin-bottom: 3%;
+
+    
+}
+.caixinhaQ{
+    padding: 100px;
+    width: 300px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+    
+}
+.caixinhaQ2{
+    padding: 100px;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(247, 167, 69);
+}
+.chocolate2{
+    margin-left: 600px;
+    margin-top: -52% ;
+    width: 70px;
+    height: 700px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+.flex-container3{
+    display: flex;
+    margin-bottom: 3%;
+    flex-direction: column;
+    
+}
+.chocolate3{
+    width: 190px;
+    height: 446px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+.chocolate4{
+    width: 190px;
+    height: 446px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+.div3{
+    max-width: 100%;
+    margin-left: 300px;
+    margin-top: -705px;
+}
+.r2b2{
+    padding: 78px;
+    width: 280px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
+.divbanana{
+    margin-left: 300px;
+    margin-top: -639px;
+}
+.chocolate5{
+    width: 190px;
+    height: 600px;
+    text-align: center;
+    background-color: rgb(247, 167, 69);
+}
